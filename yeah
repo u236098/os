@@ -1,2 +1,4 @@
 history -c
 history -d num
+gcc -g my_program.c -o my_program
+gdb ./my_program
